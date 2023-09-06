@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag319&label=Profile%20views&color=0e75b6&style=flat" alt="anurag319" /> </p>
 
 
-- 📫 How to reach me **anuragupadhyay319gmail.com**
+- 📫 How to reach me : **anuragupadhyay319gmail.com**
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1ST1A0GadVmaSjO6w2t1P34DrsjSJW6ar/view?usp=sharing)
 
