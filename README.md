@@ -1,3 +1,4 @@
+![logo](https://github.com/Anurag319/Anurag319/blob/main/Dark%20Blue%20Abstract%20Canva%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anurag Upadhyay</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
