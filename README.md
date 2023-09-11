@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anurag-upadhyay-6b808b208/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="anurag upadhyay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anurag-upadhyay-6b808b208/" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="anurag upadhyay" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/code1knight" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="code1knight" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anuragupadhyay31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="anuragupadhyay31" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anuragupadhyay319" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="anuragupadhyay319" height="30" width="40" /></a>
